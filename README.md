@@ -17,6 +17,14 @@ Dieses Repository enthält alle Dateien des EKARD IV, dazu gehören:
 - EKARD-Bestellliste
 - EKARD-Platine (Version 3 (fehlerbehaftet, siehe Aufbauanleitung) und 4 (fehlerbereinigt); KiCAD- und Gerber-Dateien)
 
+## Contact
+ For further requests please contact:
+
+HSBI - Labor Robotik:
+ martin.huelse@hsbi.de
+
+Author:
+ solly.900.yllos@gmail.com
 
 ## License
 
@@ -27,5 +35,6 @@ Copyright © 2026 Solly900
  Germany
   
   https://www.hsbi.de/
+
 
 Licensed under the Apache License, Version 2.0.
